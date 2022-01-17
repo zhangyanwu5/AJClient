@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 # AJClient
 *.DS_Store
+.idea
+Plugins/Developer/*/Binaries/*
+Plugins/Developer/*/Intermediate/*
